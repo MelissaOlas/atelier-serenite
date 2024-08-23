@@ -12,8 +12,8 @@ export class User {
   email!: string;
 
   @Column()
-  password: string;
+  password!: string;
 
   @Column({ default: true })
-  isAdmin: boolean; // Indique si c'est l'utilisatrice administratrice unique
+  isAdmin!: boolean; // Indique si c'est l'utilisatrice administratrice unique
 }
