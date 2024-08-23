@@ -1,5 +1,5 @@
 import React from "react";
-import Homepage from "./homepage/Homepage";
+import Homepage from "./pages/homepage/Homepage";
 
 const App: React.FC = () => {
   return <Homepage />;
