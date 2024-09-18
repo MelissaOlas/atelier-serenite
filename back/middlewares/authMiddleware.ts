@@ -12,7 +12,7 @@ export const authMiddleware = (
   }
 
   try {
-    const decoded = jwt.verify(token, "my-secret_pswkey9757");
+    const decoded = jwt.verify(token, ${AUTHENT_KEY});
     (req as any).user = decoded;
     next();
   } catch (error) {
