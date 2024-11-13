@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.bccfca80.css",
-    "main.js": "/static/js/main.fac5c6c2.js",
-    "static/js/453.9d419d00.chunk.js": "/static/js/453.9d419d00.chunk.js",
-    "index.html": "/index.html",
-    "main.bccfca80.css.map": "/static/css/main.bccfca80.css.map",
-    "main.fac5c6c2.js.map": "/static/js/main.fac5c6c2.js.map",
-    "453.9d419d00.chunk.js.map": "/static/js/453.9d419d00.chunk.js.map"
+    "main.css": "/atelier-serenite/static/css/main.bccfca80.css",
+    "main.js": "/atelier-serenite/static/js/main.56d0de3b.js",
+    "static/js/453.9d419d00.chunk.js": "/atelier-serenite/static/js/453.9d419d00.chunk.js",
+    "index.html": "/atelier-serenite/index.html",
+    "main.bccfca80.css.map": "/atelier-serenite/static/css/main.bccfca80.css.map",
+    "main.56d0de3b.js.map": "/atelier-serenite/static/js/main.56d0de3b.js.map",
+    "453.9d419d00.chunk.js.map": "/atelier-serenite/static/js/453.9d419d00.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bccfca80.css",
-    "static/js/main.fac5c6c2.js"
+    "static/js/main.56d0de3b.js"
   ]
 }
