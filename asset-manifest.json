@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/atelierserenite/static/css/main.bccfca80.css",
+    "main.js": "/atelierserenite/static/js/main.424ae29b.js",
+    "static/js/453.9d419d00.chunk.js": "/atelierserenite/static/js/453.9d419d00.chunk.js",
+    "index.html": "/atelierserenite/index.html",
+    "main.bccfca80.css.map": "/atelierserenite/static/css/main.bccfca80.css.map",
+    "main.424ae29b.js.map": "/atelierserenite/static/js/main.424ae29b.js.map",
+    "453.9d419d00.chunk.js.map": "/atelierserenite/static/js/453.9d419d00.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bccfca80.css",
+    "static/js/main.424ae29b.js"
+  ]
+}
